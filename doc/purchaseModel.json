@@ -1,0 +1,15 @@
+{
+  "_id": "620ace647f7bccd0c872ad9e",
+  "user": "rcretinpirolli",
+  "userInfos": {
+    "firstname": "   Raphaëlle     ",
+    "lastname": "    Crétin-Pirolli"
+  },
+  "purchaseDate": "2021-02-17T19:27:45.050Z",
+  "paymentDate": "2021-03-15T09:01:31.451Z",
+  "product": "Secrete cake",
+  "category": "SensibleDessert",
+  "quantity": 4,
+  "unitPrice": 35.2,
+  "reduction": 7.04
+}
